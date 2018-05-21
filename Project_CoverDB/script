@@ -1,0 +1,2 @@
+g++ -std=c++11 -g main.cpp
+valgrind --tool=cachegrind ./a.out
