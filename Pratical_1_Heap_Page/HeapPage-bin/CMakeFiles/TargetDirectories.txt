@@ -1,0 +1,6 @@
+/Users/charlottezhao/Desktop/Database/HeapPage-bin/CMakeFiles/rebuild_cache.dir
+/Users/charlottezhao/Desktop/Database/HeapPage-bin/CMakeFiles/edit_cache.dir
+/Users/charlottezhao/Desktop/Database/HeapPage-bin/CMakeFiles/minibase-heappage.dir
+/Users/charlottezhao/Desktop/Database/HeapPage-bin/spacemgr/CMakeFiles/rebuild_cache.dir
+/Users/charlottezhao/Desktop/Database/HeapPage-bin/spacemgr/CMakeFiles/edit_cache.dir
+/Users/charlottezhao/Desktop/Database/HeapPage-bin/spacemgr/CMakeFiles/spacemgr.dir
