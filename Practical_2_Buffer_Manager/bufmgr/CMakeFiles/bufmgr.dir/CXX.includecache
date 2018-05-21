@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/bufmgr/bmtest.cpp
+stdlib.h
+-
+stdio.h
+-
+sys/types.h
+-
+string.h
+-
+errno.h
+-
+iostream
+-
+assert.h
+-
+time.h
+-
+../include/bufmgr.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/bufmgr.h
+../include/db.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/db.h
+../include/bmtest.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/bmtest.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/bufmgr/bufmgr.cpp
+../include/bufmgr.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/bufmgr.h
+../include/frame.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/frame.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/bmtest.h
+test.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/test.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/bufmgr.h
+db.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/db.h
+page.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/page.h
+frame.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/frame.h
+replacer.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/replacer.h
+hash.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/hash.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/da_types.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/db.h
+string.h
+-
+stdlib.h
+-
+page.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/page.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/frame.h
+page.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/page.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/hash.h
+minirel.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/minirel.h
+frame.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/frame.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/minirel.h
+iostream
+-
+da_types.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/da_types.h
+new_error.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/new_error.h
+system_defs.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/system_defs.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/new_error.h
+iostream
+-
+fstream
+-
+assert.h
+-
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/page.h
+minirel.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/minirel.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/replacer.h
+frame.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/frame.h
+hash.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/hash.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/system_defs.h
+
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/test.h
+minirel.h
+/Users/gdiazc/Dropbox/Gonzalo/Oxford/2016/HT 2016/DSI Lab/practicals-minibase-student/BufMgr/include/minirel.h
+
